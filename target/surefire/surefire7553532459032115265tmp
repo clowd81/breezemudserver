@@ -1,6 +1,0 @@
-#surefire
-#Sun Apr 13 09:34:45 EDT 2014
-user.dir=C\:\\Users\\Kyle\\Dropbox\\repos\\mindgate-java\\breeze
-exec.mainClass=com.github.breezemudserver.App
-localRepository=C\:\\Users\\Kyle\\.m2\\repository
-basedir=C\:\\Users\\Kyle\\Dropbox\\repos\\mindgate-java\\breeze
