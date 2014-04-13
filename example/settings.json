@@ -1,0 +1,7 @@
+{
+    "type": "settings",
+    "motd": "Welcome to MindGate!",
+    "databaseType": "sqlite", 
+    "databaseLocation": "example/breezedb.db",
+    "maxClients": 30
+}

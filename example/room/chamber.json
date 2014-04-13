@@ -1,0 +1,7 @@
+{
+    "type": room,
+    "id": 0,
+    "name": "Chamber",
+    "description": "You stand in a white chamber.  Two doors are in front of you, one to your LEFT and one to your RIGHT",
+    "exits": "0"
+}

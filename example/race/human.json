@@ -1,0 +1,17 @@
+{
+    "type": "race",
+    "name": "human",
+    "str": 10,
+    "dex": 10,
+    "con": 10,
+    "inte": 10,
+    "will": 10,
+    "cha": 10,
+    "earth": 10,
+    "fire": 10,
+    "water": 10,
+    "wood": 10,
+    "metal": 10,
+    "yin": 50,
+    "yang": 50
+}
